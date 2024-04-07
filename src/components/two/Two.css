@@ -1,0 +1,87 @@
+.home
+{
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #faeee4;
+}
+.home-title
+{
+    font-family: "Racing Sans One", sans-serif;
+    font-size: 3.2rem;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.home-content
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.home-data
+{
+    text-align: center;
+    display:grid;
+    gap: 4px;
+}
+
+.home-box
+{
+    max-width: 250px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+.img1
+{
+    max-width: 600px;
+    width: 100%;
+    display: flex;
+    margin: auto;
+}
+
+.home-box h3
+{
+    font-size: 0.9rem;
+}
+
+.home-box h2
+{
+    color: rgb(228, 85, 33);
+    text-transform: uppercase;
+    font-size: 1rem;
+}
+
+.border-home
+{
+    padding-bottom: 10px;
+    border-bottom: 1px solid #e1dbd2;
+}
+
+.home-link
+{
+    padding-top: 80px;
+    display: flex;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+}
+
+.home-link button
+{
+    border:2px solid black;
+    background-color: #faeee4;
+    border-radius: 5px;
+    font-size: 1.1rem;
+    font-weight: 500;
+}

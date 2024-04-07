@@ -1,0 +1,39 @@
+.bg-body-tertiary1
+{
+    font-size: 20px;
+    font-weight: 500;
+    background-color: #faeee4;
+    border-radius: 0px;
+    border: 1px solid #faeee4;
+}
+
+
+
+.oneb
+{
+    background-color: black;
+    border-radius: 0px;
+    border: 1px solid black;
+}
+
+
+.yes
+{
+    background-color:black ;
+    border: 2px solid orangered;
+    color: aliceblue;
+    font-size: 20px;
+    padding-left: 6px;
+    padding-right: 6px;
+}
+
+.yes:hover
+{
+    color: white;
+}
+
+.oneb:hover
+{
+    background-color: black;
+}
+

@@ -1,0 +1,70 @@
+
+.bikes
+{
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(250px,1fr));
+    gap: 1rem;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.bike
+{
+    padding-top: 50px;
+}
+.card h6
+{
+    position: absolute ;
+    top: 20px;
+    color: rgb(64, 156, 64);
+    background-color: rgb(200, 235, 200);
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.card h4
+{
+    font-size: 1.2rem;
+    position: absolute ;
+    top: 360px;
+    left: 190px;
+}
+.card h4 span
+{
+    color: rgb(239, 98, 47);
+}
+
+.card a{
+    background-color: rgb(239, 98, 47);
+    border: 1px solid rgb(239, 98, 47);
+    color: white;
+    width: 80%;
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.card a:hover
+{
+    background-color: rgb(239, 98, 47);
+    border: none;
+}
+
+.bikes-h5
+{
+    text-align: center;
+    color: rgb(56, 55, 55);
+    font-family: "Kanit", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+}
+
+.bikes-h4
+{
+    text-align: center;
+    font-family: "Kanit", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    padding-bottom: 30px;
+}
