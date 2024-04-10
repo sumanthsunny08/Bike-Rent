@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Bike-Rent/static/css/main.156ed2b1.css",
-    "main.js": "/Bike-Rent/static/js/main.32e643df.js",
+    "main.css": "/Bike-Rent/static/css/main.3f5f8ca7.css",
+    "main.js": "/Bike-Rent/static/js/main.66f810c8.js",
     "static/js/453.a46f2b8b.chunk.js": "/Bike-Rent/static/js/453.a46f2b8b.chunk.js",
     "static/media/home.png": "/Bike-Rent/static/media/home.3140a15bcb2691efd50d.png",
     "static/media/city-1.jpg": "/Bike-Rent/static/media/city-1.7190ee053dc51c2e8ea3.jpg",
@@ -24,12 +24,12 @@
     "static/media/bike-7.png": "/Bike-Rent/static/media/bike-7.d4dc8d39a08ec1cf3ffb.png",
     "static/media/logo.svg": "/Bike-Rent/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Bike-Rent/index.html",
-    "main.156ed2b1.css.map": "/Bike-Rent/static/css/main.156ed2b1.css.map",
-    "main.32e643df.js.map": "/Bike-Rent/static/js/main.32e643df.js.map",
+    "main.3f5f8ca7.css.map": "/Bike-Rent/static/css/main.3f5f8ca7.css.map",
+    "main.66f810c8.js.map": "/Bike-Rent/static/js/main.66f810c8.js.map",
     "453.a46f2b8b.chunk.js.map": "/Bike-Rent/static/js/453.a46f2b8b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.156ed2b1.css",
-    "static/js/main.32e643df.js"
+    "static/css/main.3f5f8ca7.css",
+    "static/js/main.66f810c8.js"
   ]
 }
